@@ -21,10 +21,6 @@ app.delete('/delete-route',function(req,res){
 })
 
 
-
-
-
-
 /* app.get('/',function(req,res){
     res.send('Hello World!')
 }) */ 
